@@ -1,3 +1,10 @@
+1 of 2 project folders. see project-4-client for other half.
+
+KILLER KNOWLEDGE APP: This project is a knowledge-sharing platform where users can explore different categories of questions, answer them, and test their knowledge. 
+It allows users to view questions, see answers, and add or delete questions within selected categories
+
+
+
 (cd into folder) frontend-client 
 1. create package.json for node
     npm init -y
