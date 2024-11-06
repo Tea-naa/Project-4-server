@@ -1,0 +1,10 @@
+(cd into folder) frontend-client 
+1. create package.json for node
+    npm init -y
+2. modify package.json : "type": "module",
+   modify package.json(scripts) : "start": "node index.js"
+3. npm i express (creates node modules)
+4.npm i mysql
+  npm i mysql2
+  npm i cors (allows access to both server and client)
+5.npm start

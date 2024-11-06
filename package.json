@@ -1,0 +1,20 @@
+{
+  "name": "project4_server",
+  "version": "1.0.0",
+  "description": "(cd into folder) frontend-client  1. create package.json for node     npm init -y 2. modify package.json : \"type\": \"module\",    modify package.json(scripts) : \"start\": \"node index.js\" 3. npm i express (creates node modules) 4.npm i mysql   npm i mysql2   npm i cors (allows access to both server and client) 5.npm start",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.1",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.11.3"
+  }
+}
